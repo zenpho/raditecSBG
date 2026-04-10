@@ -1,5 +1,5 @@
 # raditecSBG
-Radikal Technologies (raditec) Spectralis editor. View and edit (groove and line sequence) data stored in `.SPT` files. Depends on my [raditecSPT](/zenpho/raditecSPT) library.
+Radikal Technologies (raditec) Spectralis editor to view and edit groove and line sequences in `.SPT` files and requires my [raditecSPT](//github.com/zenpho/raditecSPT) library.
 
 ## What is this? Why is it useful?
 
@@ -75,4 +75,4 @@ This is an in-place editor, no backups performed, data may be destroyed by accid
 
 ## Acknowledgements
 
-raditecSBG uses the `ncurses` library and [raditecSPT](/zenpho/raditecSPT) libraries to display, read, and write Radikal Technologies Spectralis SPT files.
+raditecSBG uses the `ncurses` and [raditecSPT](//github.com/zenpho/raditecSPT) libraries to display, read, and write Radikal Technologies Spectralis SPT files.
