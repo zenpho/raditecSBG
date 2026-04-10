@@ -5,9 +5,9 @@ Radikal Technologies (raditec) Spectralis editor. View and edit (groove and line
 
 I made this because I find the step-sequencers on the Spectralis very easy to use, but cumbersome to copy sequence data around between GROOVE and LINE sequence engines, and it is not simple to route sequences to external MIDI hardware.  
 
-raditecSBG makes all of these tasks quick and simple, it is a joyful experience to try out musical ideas, moving them around between the sequence engines on the Spectralis hardware and easily routing them to external MIDI gear in seconds.
+raditecSBG makes all of these tasks quick and simple, it is a joyful experience to try out musical ideas, move them between the sequencer engines on the Spectralis hardware and easily route them to external MIDI gear in seconds.
 
-Here's a screenshot of the software running
+Here's a screenshot of the software running. It runs in a terminal window with `ncurses`.
 
 ```
 ----------- v0.0 - PATT12 - mode:transfer
